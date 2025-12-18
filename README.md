@@ -25,7 +25,7 @@
 *   CMake (3.14+)
 *   Компилятор C++17
 
-### Сборка и Запуск (Linux/macOS)
+### Сборка и Запуск (Linux)
 ```bash
 mkdir build
 cd build
